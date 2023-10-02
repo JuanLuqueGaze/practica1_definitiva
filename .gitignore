@@ -1,0 +1,10 @@
+# https://docs.xilinx.com/r/en-US/ug892-vivado-design-flows-overview/Source-Management-and-Revision-Control-Recommendations
+**.rtl
+#**.xdc
+**.dcp
+
+*.sim
+*.runs
+*.ip_user_files
+*.hw
+*.cache
